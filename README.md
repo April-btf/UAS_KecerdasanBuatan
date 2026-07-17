@@ -30,7 +30,6 @@ data/dataset/
 
 # 🤖 Algoritma yang Digunakan
 
-- Mobile NetV2
 - Convolutional Neural Network (CNN)
 
 
